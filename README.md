@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 <div align="center">Hi, I'm Mahmudul Hasan and I'm an apprentice Web Developer. Recently I'm completed my Under Graduation from Daffodil International University. I am highly interested with Software job field. I am good at different types of Web development works. I have completed my Web development course at self-learning and also did Pondit Institute offline course . I’m Looking for a challenging role in a reputable organization to utilize my technical, database, and management skills for the growth of the organization as well as to enhance my knowledge about new and emerging trends in the IT sector.</div>  
   
 
