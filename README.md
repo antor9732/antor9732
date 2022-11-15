@@ -1,17 +1,24 @@
-<div align="center">Hi, I'm Mahmudul Hasan and I'm an apprentice Web Developer. Recently I'm completed my Under Graduation from Daffodil International University. I am highly interested with Software job field. I am good at different types of Web development works. I have completed my Web development course at self-learning and also did Pondit Institute offline course . I’m Looking for a challenging role in a reputable organization to utilize my technical, database, and management skills for the growth of the organization as well as to enhance my knowledge about new and emerging trends in the IT sector.</div>  
-  
+### Hi there 👋, I'm Mahmudul Hasan
+#### I'm an apprentice Web Developer
+Hi, I'm Mahmudul Hasan and I'm an apprentice Web Developer. Recently I'm completed my Under Graduation from Daffodil International University. I am highly interested with Software job field. I am good at different types of Web development works. I have completed my Web development course at self-learning and also did Pondit Institute offline course . I’m Looking for a challenging role in a reputable organization to utilize my technical, database, and management skills for the growth of the organization as well as to enhance my knowledge about new and emerging trends in the IT sector.
 
-- 🔭 I’m currently working on my own project.  
-  
+Skills:  Laravel 9 / JS / HTML / CSS/Bootstrap
 
-- 🌱 I’m currently learning Node js & Advence Laravel .  
-  
+- 🔭 I’m currently working on my own project. 
+- 🌱 I’m currently learning Advence Laravel & Node js. 
 
-<br/>  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://gitlab.com/Mahmudul13/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mahmudul-hasan-935299177//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mahmudulhasan.mahmudulhasan.3990)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/MdMahmu88572869)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](https://gitlab.com/Mahmudul13)  
+
+
+
+
+
+
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr valign="top" width="33%">
 
 
 
@@ -26,7 +33,7 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</tr><tr valign="top" width="33%">
 
 
 
@@ -40,7 +47,7 @@
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</tr><tr valign="top" width="33%">
 
 
 
@@ -50,14 +57,14 @@
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>  
-
+</tr><tr valign="top" width="33%">
 
 
 ### Framework:  
 <div align="center">  
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
 </div>  
-
+</tr><tr valign="top" width="33%">
 
 
 ### Operating system, Other and Tools:  
@@ -66,7 +73,7 @@
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</tr></table>  
 
 <br/>  
 
@@ -92,24 +99,3 @@
   
 
 <br/>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=antor9732&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Mahmudul13&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
