@@ -8,7 +8,7 @@ Skills: Laravel 11 / VueJS / JS / HTML / CSS / Bootstrap / WordPress / Webflow
 - 🌱 I’m currently learning Advence Laravel, Node js & VueJS. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg' alt='github' height='40'>](https://github.com/Mahmudul13)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahmudul-hasan-935299177/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mahmudulhasan.mahmudulhasan.3990)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MdMahmu88572869)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gitlab.svg' alt='gitlab' height='40'>](https://gitlab.com/Mahmudul13) 
+[<img src='https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg' alt='gitlab' height='40'>](https://github.com/Mahmudul13)  [<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahmudul-hasan-935299177/)  [<img src='https://img.icons8.com/?size=100&id=118497&format=png&color=000000' alt='facebook' height='40'>](https://www.facebook.com/mahmudulhasan.mahmudulhasan.3990)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MdMahmu88572869)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gitlab.svg' alt='gitlab' height='40'>](https://gitlab.com/Mahmudul13) 
 
 
 
