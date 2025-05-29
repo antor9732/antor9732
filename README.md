@@ -8,11 +8,7 @@ Skills: Laravel 11 / VueJS / JS / HTML / CSS / Bootstrap / WordPress / Webflow
 - 🌱 I’m currently learning Advence Laravel, Node js & VueJS. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mahmudul13)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahmudul-hasan-935299177/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mahmudulhasan.mahmudulhasan.3990)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MdMahmu88572869)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](https://gitlab.com/Mahmudul13)  
-
-
-
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg' alt='github' height='40'>](https://github.com/Mahmudul13)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahmudul-hasan-935299177/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mahmudulhasan.mahmudulhasan.3990)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MdMahmu88572869)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gitlab.svg' alt='gitlab' height='40'>](https://gitlab.com/Mahmudul13) 
 
 
 
@@ -60,8 +56,8 @@ Skills: Laravel 11 / VueJS / JS / HTML / CSS / Bootstrap / WordPress / Webflow
 
 ### CMS & No-Code Platforms:  
 <div align="center">  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg" alt="WordPress" height="50" color="white"/></a>  
-<a href="https://www.webflow.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@14.15.0/icons/webflow.svg" alt="Webflow" height="50" /></a>  
+<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/wordpress.svg" alt="WordPress" height="50" /></a>  
+<a href="https://www.webflow.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/webflow.svg" alt="Webflow" height="50" /></a>  
 </div>
 
 </tr><tr valign="top" width="33%">
