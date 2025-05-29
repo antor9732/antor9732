@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Mahmudul Hasan
-#### I'm an apprentice Web Developer
-Hi, I'm Mahmudul Hasan and I'm an apprentice Web Developer. Recently I'm completed my Under Graduation from Daffodil International University. I am highly interested with Software job field. I am good at different types of Web development works. I have completed my Web development course at self-learning and also did Pondit Institute offline course . I’m Looking for a challenging role in a reputable organization to utilize my technical, database, and management skills for the growth of the organization as well as to enhance my knowledge about new and emerging trends in the IT sector.
+#### I'm a Professional Web Developer
+Hi, I'm Mahmudul Hasan, a professional Web Developer with 2.5+ years of experience. I hold a B.Sc. from Daffodil International University and specialize in modern web development. I’ve built my expertise through self-learning and formal training at Pondit Institute. Currently, I'm focused on Vue.js projects. I'm passionate about building scalable, user-friendly applications and always eager to learn emerging technologies in the IT sector.
 
 Skills: Laravel 11 / VueJS / JS / HTML / CSS / Bootstrap / WordPress / Webflow
 
