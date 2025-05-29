@@ -60,9 +60,9 @@ Skills: Laravel 11 / VueJS / JS / HTML / CSS / Bootstrap / WordPress / Webflow
 
 ### CMS & No-Code Platforms:  
 <div align="center">  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.svg" alt="WordPress" height="50" /></a>  
-<a href="https://www.webflow.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webflow.svg" alt="Webflow" height="50" /></a>  
-</div>  
+<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg" alt="WordPress" height="50" /></a>  
+<a href="https://www.webflow.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/webflow.svg" alt="Webflow" height="50" /></a>  
+</div>
 
 </tr><tr valign="top" width="33%">
 
